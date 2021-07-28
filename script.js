@@ -413,6 +413,7 @@ function lose() {
       float = 0;
       obs = 0;
       pow = 0;
+      invincible = 0;
       loss = 0;
 
       world.speed = 7.5;
